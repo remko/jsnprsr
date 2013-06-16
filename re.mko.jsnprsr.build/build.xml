@@ -1,0 +1,140 @@
+<project default="build">
+	<property name="top.dir" value="${basedir}/.."/>
+	<property name="test.speed.dir" value="${top.dir}/re.mko.jsnprsr.test.speed"/>
+	<property name="test.unit.dir" value="${top.dir}/re.mko.jsnprsr.test.unit"/>
+	<property name="build.jar.file" value="${basedir}/build/jsnprsr.jar"/>
+	<property name="build.tools.dir" value="${basedir}/tools"/>
+	<property name="build.bin.dir" value="${basedir}/build/bin"/>
+	<property name="build.test.dir" value="${basedir}/build/test"/>
+	<property name="build.test.bin.dir" value="${build.test.dir}/bin"/>
+	<property name="src.dir" value="${top.dir}/re.mko.jsnprsr/src"/>
+	<property name="test.unit.src.dir" value="${test.unit.dir}/src"/>
+	<property name="test.unit.lib.dir" value="${test.unit.dir}/lib"/>
+	<property name="build.analyze.dir" value="${basedir}/build/analyze"/>
+	<property name="findbugs.dir" value="${basedir}/tools/findbugs"/>
+	<property name="pmd.dir" value="${basedir}/tools/pmd"/>
+	<property name="javancss.dir" value="${basedir}/tools/javancss"/>
+	<property name="cobertura.dir" value="${basedir}/tools/cobertura"/>
+	<property name="build.coverage.bin.dir" location="${basedir}/build/coverage"/>
+	
+	<path id="test.classpath">
+		<pathelement path="${classpath}"/>
+    	<pathelement path="${build.bin.dir}"/>
+    	<pathelement path="${build.test.bin.dir}"/>
+		<fileset dir="${test.unit.lib.dir}">
+			<include name="*.jar"/>
+		</fileset>
+	</path>
+	
+	<path id="cobertura.classpath">
+		<fileset dir="${cobertura.dir}">
+			<include name="cobertura.jar" />
+			<include name="lib/**/*.jar" />
+		</fileset>
+	</path>
+	<taskdef classpathref="cobertura.classpath" resource="tasks.properties" />
+	<property name="cobertura.datafile" location="${build.coverage.bin.dir}/cobertura.ser"/>
+	
+	<target name="build">
+		<delete dir="${build.bin.dir}"/>
+		<mkdir dir="${build.bin.dir}"/>
+		
+		<javac includeantruntime="false" srcdir="${src.dir}" destdir="${build.bin.dir}" source="1.6" target="1.6">
+		</javac>
+		<jar destfile="${build.jar.file}" basedir="${build.bin.dir}"/>
+	</target>	
+	
+	<target name="instrument">
+		<delete dir="${build.coverage.bin.dir}"/>
+		<cobertura-instrument todir="${build.coverage.bin.dir}" datafile="${cobertura.datafile}">
+			<includeClasses regex="re\.mko\..*"/>
+			<instrumentationClasspath>
+				<path refid="test.classpath"/>
+			</instrumentationClasspath>
+		</cobertura-instrument>
+	</target>
+
+	<target name="test" depends="build,instrument">
+		<mkdir dir="${build.test.bin.dir}"/>
+		<javac includeantruntime="false" srcdir="${test.unit.src.dir}" destdir="${build.test.bin.dir}" source="1.6" target="1.6">
+			<classpath>
+				<path refid="test.classpath"/>
+			</classpath>
+		</javac>
+		<junit printsummary="yes" haltonfailure="no" fork="yes" forkmode="once" dir="${top.dir}">
+			<sysproperty key="net.sourceforge.cobertura.datafile" file="${cobertura.datafile}" />
+			<classpath>
+				<pathelement location="${build.coverage.bin.dir}"/>
+				<path refid="test.classpath"/>
+				<pathelement path="${classpath}"/>
+				<path refid="cobertura.classpath"/>
+			</classpath>
+			<batchtest todir="${build.test.dir}">
+				<fileset dir="${build.test.bin.dir}">
+					<include name="**/*Test.class"/>
+				</fileset>
+			</batchtest>
+			<assertions>
+				<enable/>
+			</assertions>
+			<formatter type="xml" usefile="true"/>
+		</junit>
+	</target>
+	
+	<target name="analyze" depends="build">
+		<taskdef name="findbugs" classname="edu.umd.cs.findbugs.anttask.FindBugsTask" classpath="${findbugs.dir}/lib/findbugs-ant.jar"/>
+		<path id="pmd.classpath">
+			<fileset dir="${pmd.dir}/lib">
+				<include name="*.jar"/>
+			</fileset>
+		</path>
+		<taskdef name="pmd" classname="net.sourceforge.pmd.ant.PMDTask" classpathref="pmd.classpath"/>
+		<taskdef name="cpd" classname="net.sourceforge.pmd.cpd.CPDTask" classpathref="pmd.classpath"/>
+		
+		<path id="javancss.classpath">
+			<fileset dir="${javancss.dir}/lib">
+				<include name="*.jar"/>
+			</fileset>
+		</path>
+		<taskdef name="javancss" classname="javancss.JavancssAntTask" classpathref="javancss.classpath"/>
+
+		<mkdir dir="${build.analyze.dir}"/>
+
+		<cobertura-report format="xml" destdir="${build.analyze.dir}" datafile="${cobertura.datafile}">
+			<fileset dir="${src.dir}">
+				<include name="**/*.java" />
+			</fileset>
+		</cobertura-report>
+		<cobertura-report format="html" destdir="${build.analyze.dir}/coverage" datafile="${cobertura.datafile}">
+			<fileset dir="${src.dir}">
+				<include name="**/*.java" />
+			</fileset>
+		</cobertura-report>
+
+		<pmd shortFilenames="true">
+			<ruleset>pmd-ruleset.xml</ruleset>
+			<formatter type="xml" toFile="${build.analyze.dir}/pmd.xml"/>
+			<formatter type="html" toFile="${build.analyze.dir}/pmd.html"/>
+			<fileset dir="${src.dir}">
+				<include name="**/*.java"/>
+			</fileset>
+		</pmd>
+
+		<cpd minimumTokenCount="100" outputFile="${build.analyze.dir}/cpd.xml" ignoreLiterals="true" ignoreIdentifiers="true" format="xml">
+			<fileset dir="${src.dir}">
+				<include name="**/*.java"/>
+			</fileset>
+		</cpd>
+		
+		<findbugs home="${findbugs.dir}" output="xml" outputFile="${build.analyze.dir}/findbugs.xml" reportLevel="low" effort="max" excludeFilter="findbugs-excludes.xml" failOnError="true">
+			<class location="${build.bin.dir}"/>
+			<sourcePath path="${src.dir}"/>
+		</findbugs>
+			
+		<javancss srcdir="${src.dir}" includes="**/*.java" abortOnFail="true" generateReport="true" outputFile="${build.analyze.dir}/javancss.xml" format="xml"/>
+	</target>
+
+	
+	<target name="all" depends="build,test,analyze">
+	</target>
+</project>

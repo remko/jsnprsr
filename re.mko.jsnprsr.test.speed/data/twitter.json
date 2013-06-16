@@ -1,0 +1,3190 @@
+[
+   {
+    "created_at": "Thu Jul 04 04:08:54 +0000 2013",
+    "id": 352640133268381700,
+    "id_str": "352640133268381696",
+    "text": "Celebrating the Fourth, as we hope you are. https://t.co/9F1JAJmNEC - enjoy the holiday!",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 352,
+    "favorite_count": 194,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "https://t.co/9F1JAJmNEC",
+          "expanded_url": "https://blog.twitter.com/2013/celebrating-the-fourth-of-july",
+          "display_url": "blog.twitter.com/2013/celebrati…",
+          "indices":  [
+            44,
+            67
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Wed Jul 03 17:06:02 +0000 2013",
+    "id": 352473319024508900,
+    "id_str": "352473319024508930",
+    "text": "We're testing ways to make ads more useful for you. Check our short Privacy Policy update (https://t.co/ER2YmKhhmS > Third Parties).",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 263,
+    "favorite_count": 137,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "https://t.co/ER2YmKhhmS",
+          "expanded_url": "https://twitter.com/privacy",
+          "display_url": "twitter.com/privacy",
+          "indices":  [
+            91,
+            114
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri Jun 28 21:09:03 +0000 2013",
+    "id": 350722534599163900,
+    "id_str": "350722534599163906",
+    "text": "See the topography of Tweets come alive in these geotagged data visualizations: https://t.co/as5cb6R7Cr",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1303,
+    "favorite_count": 314,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "https://t.co/as5cb6R7Cr",
+          "expanded_url": "https://blog.twitter.com/2013/topography-tweets",
+          "display_url": "blog.twitter.com/2013/topograph…",
+          "indices":  [
+            80,
+            103
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Thu Jun 27 22:34:31 +0000 2013",
+    "id": 350381657951453200,
+    "id_str": "350381657951453184",
+    "text": "RT @vineapp: Vine for Android is now faster and selfie-enabled (front-facing camera!) -- get it now from Google Play https://t.co/xEtAOyzRFO",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Thu Jun 27 22:27:10 +0000 2013",
+      "id": 350379806791176200,
+      "id_str": "350379806791176192",
+      "text": "Vine for Android is now faster and selfie-enabled (front-facing camera!) -- get it now from Google Play https://t.co/xEtAOyzRFO",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 586671909,
+        "id_str": "586671909",
+        "name": "Vine",
+        "screen_name": "vineapp",
+        "location": "",
+        "description": "Vine is a new app for sharing short, looping videos. It's free for iPhone or Android.",
+        "url": "http://t.co/HLAhG6mqQx",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/HLAhG6mqQx",
+                "expanded_url": "http://vine.co",
+                "display_url": "vine.co",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 2501815,
+        "friends_count": 10,
+        "listed_count": 1638,
+        "created_at": "Mon May 21 14:34:36 +0000 2012",
+        "favourites_count": 64,
+        "utc_offset": -14400,
+        "time_zone": "Atlantic Time (Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 125,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F1F1EC",
+        "profile_background_image_url": "http://a0.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/3578238864/50d7e05aa6fe5d477e48a63047e38ce7_normal.png",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/3578238864/50d7e05aa6fe5d477e48a63047e38ce7_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/586671909/1358910416",
+        "profile_link_color": "00B386",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": false,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 536,
+      "favorite_count": 277,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/xEtAOyzRFO",
+            "expanded_url": "https://play.google.com/store/apps/details?id=co.vine.android",
+            "display_url": "play.google.com/store/apps/det…",
+            "indices":  [
+              104,
+              127
+            ]
+          }
+        ],
+        "user_mentions":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 536,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "https://t.co/xEtAOyzRFO",
+          "expanded_url": "https://play.google.com/store/apps/details?id=co.vine.android",
+          "display_url": "play.google.com/store/apps/det…",
+          "indices":  [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "vineapp",
+          "name": "Vine",
+          "id": 586671909,
+          "id_str": "586671909",
+          "indices":  [
+            3,
+            11
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Thu Jun 27 18:20:11 +0000 2013",
+    "id": 350317651815440400,
+    "id_str": "350317651815440385",
+    "text": "RT @TweetDeck: Larger, more flexible media previews in TweetDeck for web and Chrome.\nhttps://t.co/M9VLJ34tPR http://t.co/QcQoUuHjOe",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Thu Jun 27 16:28:41 +0000 2013",
+      "id": 350289590004875260,
+      "id_str": "350289590004875266",
+      "text": "Larger, more flexible media previews in TweetDeck for web and Chrome.\nhttps://t.co/M9VLJ34tPR http://t.co/QcQoUuHjOe",
+      "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 14803701,
+        "id_str": "14803701",
+        "name": "TweetDeck",
+        "screen_name": "TweetDeck",
+        "location": "London, UK",
+        "description": "TweetDeck is an app that brings more flexibility and insight to power users. Questions? https://t.co/KFxg3aVrwl",
+        "url": "http://t.co/RO7g9KTF5z",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/RO7g9KTF5z",
+                "expanded_url": "http://www.tweetdeck.com",
+                "display_url": "tweetdeck.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "https://t.co/KFxg3aVrwl",
+                "expanded_url": "https://support.twitter.com/groups/54-mobile-apps#topic_226",
+                "display_url": "support.twitter.com/groups/54-mobi…",
+                "indices":  [
+                  88,
+                  111
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2389114,
+        "friends_count": 161446,
+        "listed_count": 25591,
+        "created_at": "Fri May 16 20:30:59 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 6985,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/656938442/9knix0r598sxgmayw7c3.png",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/656938442/9knix0r598sxgmayw7c3.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://a0.twimg.com/profile_images/3759540932/051e36e98a2b3776061fa6f611f5dcb0_normal.png",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/3759540932/051e36e98a2b3776061fa6f611f5dcb0_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14803701/1347395022",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": false,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1152,
+      "favorite_count": 131,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/M9VLJ34tPR",
+            "expanded_url": "https://blog.twitter.com/2013/larger-and-more-flexible-previews",
+            "display_url": "blog.twitter.com/2013/larger-an…",
+            "indices":  [
+              70,
+              93
+            ]
+          }
+        ],
+        "user_mentions":  [],
+        "media":  [
+           {
+            "id": 350289590013263900,
+            "id_str": "350289590013263872",
+            "indices":  [
+              94,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/media/BNx6hrVCAAAgIiB.png",
+            "media_url_https": "https://pbs.twimg.com/media/BNx6hrVCAAAgIiB.png",
+            "url": "http://t.co/QcQoUuHjOe",
+            "display_url": "pic.twitter.com/QcQoUuHjOe",
+            "expanded_url": "http://twitter.com/TweetDeck/status/350289590004875266/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "medium":  {
+                "w": 351,
+                "h": 298,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large":  {
+                "w": 351,
+                "h": 298,
+                "resize": "fit"
+              },
+              "small":  {
+                "w": 340,
+                "h": 289,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1152,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "https://t.co/M9VLJ34tPR",
+          "expanded_url": "https://blog.twitter.com/2013/larger-and-more-flexible-previews",
+          "display_url": "blog.twitter.com/2013/larger-an…",
+          "indices":  [
+            85,
+            108
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "TweetDeck",
+          "name": "TweetDeck",
+          "id": 14803701,
+          "id_str": "14803701",
+          "indices":  [
+            3,
+            13
+          ]
+        }
+      ],
+      "media":  [
+         {
+          "id": 350289590013263900,
+          "id_str": "350289590013263872",
+          "indices":  [
+            109,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/BNx6hrVCAAAgIiB.png",
+          "media_url_https": "https://pbs.twimg.com/media/BNx6hrVCAAAgIiB.png",
+          "url": "http://t.co/QcQoUuHjOe",
+          "display_url": "pic.twitter.com/QcQoUuHjOe",
+          "expanded_url": "http://twitter.com/TweetDeck/status/350289590004875266/photo/1",
+          "type": "photo",
+          "sizes":  {
+            "medium":  {
+              "w": 351,
+              "h": 298,
+              "resize": "fit"
+            },
+            "thumb":  {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large":  {
+              "w": 351,
+              "h": 298,
+              "resize": "fit"
+            },
+            "small":  {
+              "w": 340,
+              "h": 289,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 350289590004875260,
+          "source_status_id_str": "350289590004875266"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Thu Jun 27 00:13:22 +0000 2013",
+    "id": 350044146494472200,
+    "id_str": "350044146494472192",
+    "text": "Over 24 hrs, Twitter has been the global town square for major civic showdowns in Washington, Austin + Canberra: https://t.co/ThSi6X2VUj",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 493,
+    "favorite_count": 238,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "https://t.co/ThSi6X2VUj",
+          "expanded_url": "https://blog.twitter.com/2013/24-hours-global-governance",
+          "display_url": "blog.twitter.com/2013/24-hours-…",
+          "indices":  [
+            113,
+            136
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Tue Jun 25 21:49:09 +0000 2013",
+    "id": 349645462464249860,
+    "id_str": "349645462464249858",
+    "text": "RT @Support: We just hatched a fresh new design for our Help Center! Now it's easier than ever to find the answers you need. http://t.co/Vk…",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Tue Jun 25 21:44:17 +0000 2013",
+      "id": 349644240579604500,
+      "id_str": "349644240579604480",
+      "text": "We just hatched a fresh new design for our Help Center! Now it's easier than ever to find the answers you need. http://t.co/Vk1NkwU8qP",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 17874544,
+        "id_str": "17874544",
+        "name": "Support",
+        "screen_name": "Support",
+        "location": "Twitter HQ",
+        "description": "Updates from Twitter User Support. We're unable to assist with account suspension/verification.",
+        "url": "http://t.co/Vk1NkwU8qP",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/Vk1NkwU8qP",
+                "expanded_url": "http://support.twitter.com",
+                "display_url": "support.twitter.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 2364839,
+        "friends_count": 31,
+        "listed_count": 11976,
+        "created_at": "Thu Dec 04 18:51:57 +0000 2008",
+        "favourites_count": 45,
+        "utc_offset": -32400,
+        "time_zone": "Alaska",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 2260,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/656929496/y6jd4l68p18hrm52f0ez.png",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/656929496/y6jd4l68p18hrm52f0ez.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://a0.twimg.com/profile_images/2320882833/2whv6cuhvbal751uss8u_normal.png",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/2320882833/2whv6cuhvbal751uss8u_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17874544/1347394418",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": false,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 304,
+      "favorite_count": 204,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "http://t.co/Vk1NkwU8qP",
+            "expanded_url": "http://support.twitter.com",
+            "display_url": "support.twitter.com",
+            "indices":  [
+              112,
+              134
+            ]
+          }
+        ],
+        "user_mentions":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 304,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "Support",
+          "name": "Support",
+          "id": 17874544,
+          "id_str": "17874544",
+          "indices":  [
+            3,
+            11
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Thu Jun 20 19:10:47 +0000 2013",
+    "id": 347793671820828700,
+    "id_str": "347793671820828674",
+    "text": "After 19.3 million Tweets during #NBAFinals games, are the @Spurs or @MiamiHEAT winning on Twitter?? https://t.co/iGQsLvcPY7",
+    "source": "<a href=\"http://vine.co\" rel=\"nofollow\">Vine - Make a Scene</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 991,
+    "favorite_count": 337,
+    "entities":  {
+      "hashtags":  [
+         {
+          "text": "NBAFinals",
+          "indices":  [
+            33,
+            43
+          ]
+        }
+      ],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "https://t.co/iGQsLvcPY7",
+          "expanded_url": "https://vine.co/v/huMeWbZ92Qg",
+          "display_url": "vine.co/v/huMeWbZ92Qg",
+          "indices":  [
+            101,
+            124
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "spurs",
+          "name": "San Antonio Spurs",
+          "id": 18371803,
+          "id_str": "18371803",
+          "indices":  [
+            59,
+            65
+          ]
+        },
+         {
+          "screen_name": "MiamiHEAT",
+          "name": "Miami HEAT",
+          "id": 11026952,
+          "id_str": "11026952",
+          "indices":  [
+            69,
+            79
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Wed Jun 19 16:21:20 +0000 2013",
+    "id": 347388637832413200,
+    "id_str": "347388637832413187",
+    "text": "RT @TwitterAds: Here's the awesome TV ad targeting visualization that @dkroy just showed at #CannesLions http://t.co/yt7QFXACvD",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Wed Jun 19 15:47:33 +0000 2013",
+      "id": 347380137790165000,
+      "id_str": "347380137790164992",
+      "text": "Here's the awesome TV ad targeting visualization that @dkroy just showed at #CannesLions http://t.co/yt7QFXACvD",
+      "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 357750891,
+        "id_str": "357750891",
+        "name": "Twitter Advertising",
+        "screen_name": "TwitterAds",
+        "location": "San Francisco, CA ",
+        "description": "Your source for Twitter advertising product updates, tips, news and success stories. Looking for SMB? @twittersmallbiz. Need help? http://t.co/xAMS8D6Bfu",
+        "url": "http://t.co/EwxpVQz6Gs",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/EwxpVQz6Gs",
+                "expanded_url": "http://business.twitter.com",
+                "display_url": "business.twitter.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/xAMS8D6Bfu",
+                "expanded_url": "http://ow.ly/kshRw",
+                "display_url": "ow.ly/kshRw",
+                "indices":  [
+                  131,
+                  153
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 178478,
+        "friends_count": 98,
+        "listed_count": 1313,
+        "created_at": "Thu Aug 18 21:08:15 +0000 2011",
+        "favourites_count": 227,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 950,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/662767273/jvmxdpdrplhxcw8yvkv2.png",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/662767273/jvmxdpdrplhxcw8yvkv2.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://a0.twimg.com/profile_images/2284174566/amp1w9arbi2aw151ns3s_normal.png",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174566/amp1w9arbi2aw151ns3s_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357750891/1347988305",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": false,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 664,
+      "favorite_count": 294,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "CannesLions",
+            "indices":  [
+              76,
+              88
+            ]
+          }
+        ],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "http://t.co/yt7QFXACvD",
+            "expanded_url": "http://youtu.be/K8KJWoNk_Rg",
+            "display_url": "youtu.be/K8KJWoNk_Rg",
+            "indices":  [
+              89,
+              111
+            ]
+          }
+        ],
+        "user_mentions":  [
+           {
+            "screen_name": "dkroy",
+            "name": "Deb Roy",
+            "id": 30569817,
+            "id_str": "30569817",
+            "indices":  [
+              54,
+              60
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 664,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [
+         {
+          "text": "CannesLions",
+          "indices":  [
+            92,
+            104
+          ]
+        }
+      ],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/yt7QFXACvD",
+          "expanded_url": "http://youtu.be/K8KJWoNk_Rg",
+          "display_url": "youtu.be/K8KJWoNk_Rg",
+          "indices":  [
+            105,
+            127
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "TwitterAds",
+          "name": "Twitter Advertising",
+          "id": 357750891,
+          "id_str": "357750891",
+          "indices":  [
+            3,
+            14
+          ]
+        },
+         {
+          "screen_name": "dkroy",
+          "name": "Deb Roy",
+          "id": 30569817,
+          "id_str": "30569817",
+          "indices":  [
+            70,
+            76
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Tue Jun 18 19:51:14 +0000 2013",
+    "id": 347079075459907600,
+    "id_str": "347079075459907584",
+    "text": "RT @vineapp: #thankyou for sharing so many wonderful videos on Vine. You're all awesome. https://t.co/ZiZLrRrqfH",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Tue Jun 18 19:49:26 +0000 2013",
+      "id": 347078623439769600,
+      "id_str": "347078623439769600",
+      "text": "#thankyou for sharing so many wonderful videos on Vine. You're all awesome. https://t.co/ZiZLrRrqfH",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 586671909,
+        "id_str": "586671909",
+        "name": "Vine",
+        "screen_name": "vineapp",
+        "location": "",
+        "description": "Vine is a new app for sharing short, looping videos. It's free for iPhone or Android.",
+        "url": "http://t.co/HLAhG6mqQx",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/HLAhG6mqQx",
+                "expanded_url": "http://vine.co",
+                "display_url": "vine.co",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 2501815,
+        "friends_count": 10,
+        "listed_count": 1638,
+        "created_at": "Mon May 21 14:34:36 +0000 2012",
+        "favourites_count": 64,
+        "utc_offset": -14400,
+        "time_zone": "Atlantic Time (Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 125,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F1F1EC",
+        "profile_background_image_url": "http://a0.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/3578238864/50d7e05aa6fe5d477e48a63047e38ce7_normal.png",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/3578238864/50d7e05aa6fe5d477e48a63047e38ce7_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/586671909/1358910416",
+        "profile_link_color": "00B386",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": false,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 740,
+      "favorite_count": 761,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "thankyou",
+            "indices":  [
+              0,
+              9
+            ]
+          }
+        ],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/ZiZLrRrqfH",
+            "expanded_url": "https://vine.co/blog/thanks",
+            "display_url": "vine.co/blog/thanks",
+            "indices":  [
+              76,
+              99
+            ]
+          }
+        ],
+        "user_mentions":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 740,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [
+         {
+          "text": "thankyou",
+          "indices":  [
+            13,
+            22
+          ]
+        }
+      ],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "https://t.co/ZiZLrRrqfH",
+          "expanded_url": "https://vine.co/blog/thanks",
+          "display_url": "vine.co/blog/thanks",
+          "indices":  [
+            89,
+            112
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "vineapp",
+          "name": "Vine",
+          "id": 586671909,
+          "id_str": "586671909",
+          "indices":  [
+            3,
+            11
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri Jun 14 16:16:50 +0000 2013",
+    "id": 345575569473290240,
+    "id_str": "345575569473290241",
+    "text": "Public service announcement: Sunday is #FeathersDay. Do we have that right? https://t.co/NiVEUPHx9s",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 484,
+    "favorite_count": 201,
+    "entities":  {
+      "hashtags":  [
+         {
+          "text": "FeathersDay",
+          "indices":  [
+            39,
+            51
+          ]
+        }
+      ],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "https://t.co/NiVEUPHx9s",
+          "expanded_url": "https://blog.twitter.com/2013/feathers-day",
+          "display_url": "blog.twitter.com/2013/feathers-…",
+          "indices":  [
+            76,
+            99
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Thu Jun 13 18:03:41 +0000 2013",
+    "id": 345240070573408260,
+    "id_str": "345240070573408256",
+    "text": "Fun for you, fun to do: Create your instant Twitter highlight reel -   https://t.co/kYOLsQdZGG #FollowMe",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 446,
+    "favorite_count": 338,
+    "entities":  {
+      "hashtags":  [
+         {
+          "text": "FollowMe",
+          "indices":  [
+            95,
+            104
+          ]
+        }
+      ],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "https://t.co/kYOLsQdZGG",
+          "expanded_url": "https://blog.twitter.com/followme-create-an-instant-twitter-highlight-reel",
+          "display_url": "blog.twitter.com/followme-creat…",
+          "indices":  [
+            71,
+            94
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri Jun 07 00:26:53 +0000 2013",
+    "id": 342799791874506750,
+    "id_str": "342799791874506752",
+    "text": "Last night, the biggest #CMTAwards stars took to Twitter to give fans a taste of Southern soul: https://t.co/nleX8oMVWg",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 339,
+    "favorite_count": 216,
+    "entities":  {
+      "hashtags":  [
+         {
+          "text": "CMTAwards",
+          "indices":  [
+            24,
+            34
+          ]
+        }
+      ],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "https://t.co/nleX8oMVWg",
+          "expanded_url": "https://blog.twitter.com/2013/onlyontwitter-country-music-global-audience-1",
+          "display_url": "blog.twitter.com/2013/onlyontwi…",
+          "indices":  [
+            96,
+            119
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Thu Jun 06 18:48:31 +0000 2013",
+    "id": 342714635574710300,
+    "id_str": "342714635574710272",
+    "text": "RT @twittermobile: Twitter for Windows Phone now beautifies your photos with filters http://t.co/8KPBKoIMrw http://t.co/nF8QFfo5Rt",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Thu Jun 06 18:14:30 +0000 2013",
+      "id": 342706076476649500,
+      "id_str": "342706076476649473",
+      "text": "Twitter for Windows Phone now beautifies your photos with filters http://t.co/8KPBKoIMrw http://t.co/nF8QFfo5Rt",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 3963481,
+        "id_str": "3963481",
+        "name": "Twitter Mobile",
+        "screen_name": "twittermobile",
+        "location": "San Francisco, CA",
+        "description": "",
+        "url": "http://t.co/A55poq0FRj",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/A55poq0FRj",
+                "expanded_url": "http://twitter.com",
+                "display_url": "twitter.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 2563370,
+        "friends_count": 28,
+        "listed_count": 7599,
+        "created_at": "Tue Apr 10 01:20:52 +0000 2007",
+        "favourites_count": 2,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 371,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/656932170/urr667rpqtg6l7psohaf.png",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/656932170/urr667rpqtg6l7psohaf.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://a0.twimg.com/profile_images/2284174879/uqyatg9dtld0rxx9anic_normal.png",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174879/uqyatg9dtld0rxx9anic_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3963481/1347394599",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": false,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 506,
+      "favorite_count": 296,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "http://t.co/8KPBKoIMrw",
+            "expanded_url": "http://www.windowsphone.com/s?appid=0b792c7c-14dc-df11-a844-00237de2db9e",
+            "display_url": "windowsphone.com/s?appid=0b792c…",
+            "indices":  [
+              66,
+              88
+            ]
+          }
+        ],
+        "user_mentions":  [],
+        "media":  [
+           {
+            "id": 342706076485038100,
+            "id_str": "342706076485038080",
+            "indices":  [
+              89,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/BMGJXF9CMAA9xND.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BMGJXF9CMAA9xND.jpg",
+            "url": "http://t.co/nF8QFfo5Rt",
+            "display_url": "pic.twitter.com/nF8QFfo5Rt",
+            "expanded_url": "http://twitter.com/twittermobile/status/342706076476649473/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "small":  {
+                "w": 340,
+                "h": 604,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large":  {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium":  {
+                "w": 600,
+                "h": 1067,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 506,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/8KPBKoIMrw",
+          "expanded_url": "http://www.windowsphone.com/s?appid=0b792c7c-14dc-df11-a844-00237de2db9e",
+          "display_url": "windowsphone.com/s?appid=0b792c…",
+          "indices":  [
+            85,
+            107
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "twittermobile",
+          "name": "Twitter Mobile",
+          "id": 3963481,
+          "id_str": "3963481",
+          "indices":  [
+            3,
+            17
+          ]
+        }
+      ],
+      "media":  [
+         {
+          "id": 342706076485038100,
+          "id_str": "342706076485038080",
+          "indices":  [
+            108,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/BMGJXF9CMAA9xND.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BMGJXF9CMAA9xND.jpg",
+          "url": "http://t.co/nF8QFfo5Rt",
+          "display_url": "pic.twitter.com/nF8QFfo5Rt",
+          "expanded_url": "http://twitter.com/twittermobile/status/342706076476649473/photo/1",
+          "type": "photo",
+          "sizes":  {
+            "small":  {
+              "w": 340,
+              "h": 604,
+              "resize": "fit"
+            },
+            "thumb":  {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large":  {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium":  {
+              "w": 600,
+              "h": 1067,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 342706076476649500,
+          "source_status_id_str": "342706076476649473"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Thu Jun 06 13:52:13 +0000 2013",
+    "id": 342640070764920800,
+    "id_str": "342640070764920834",
+    "text": "RT @WPP: \"Delighted to announce p/ship w/ Twitter from Myanmar, where WPP is growing fast. New markets & new media!\" M Sorrell http://t.co/…",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Thu Jun 06 10:07:04 +0000 2013",
+      "id": 342583411921281000,
+      "id_str": "342583411921281024",
+      "text": "\"Delighted to announce p/ship w/ Twitter from Myanmar, where WPP is growing fast. New markets & new media!\" M Sorrell http://t.co/YT2Qpuw6Rb",
+      "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 19186720,
+        "id_str": "19186720",
+        "name": "WPP",
+        "screen_name": "WPP",
+        "location": "London",
+        "description": "News, insights, research and much more from WPP marketing professionals across the world.",
+        "url": "http://t.co/bzy2Hqd3wX",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/bzy2Hqd3wX",
+                "expanded_url": "http://www.wpp.com",
+                "display_url": "wpp.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 46531,
+        "friends_count": 474,
+        "listed_count": 2518,
+        "created_at": "Mon Jan 19 15:27:35 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 2816,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/4613734/background_twitter2.gif",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/4613734/background_twitter2.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/1247262015/wpp_whitebg_128x128_normal.gif",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/1247262015/wpp_whitebg_128x128_normal.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19186720/1365431384",
+        "profile_link_color": "137EA4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F5F5F5",
+        "profile_text_color": "707070",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": false,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 154,
+      "favorite_count": 71,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "http://t.co/YT2Qpuw6Rb",
+            "expanded_url": "http://bit.ly/17qSJio",
+            "display_url": "bit.ly/17qSJio",
+            "indices":  [
+              122,
+              144
+            ]
+          }
+        ],
+        "user_mentions":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 154,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "WPP",
+          "name": "WPP",
+          "id": 19186720,
+          "id_str": "19186720",
+          "indices":  [
+            3,
+            7
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Wed Jun 05 23:22:26 +0000 2013",
+    "id": 342421183150567400,
+    "id_str": "342421183150567424",
+    "text": "We're honored to be named to the @otalliance Honor Roll for online trustworthiness. http://t.co/Mxo75DjA7W",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 353,
+    "favorite_count": 224,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/Mxo75DjA7W",
+          "expanded_url": "http://www.infosecurity-magazine.com/view/32787/twitter-headlines-honor-roll-for-online-trustworthiness/",
+          "display_url": "infosecurity-magazine.com/view/32787/twi…",
+          "indices":  [
+            84,
+            106
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "otalliance",
+          "name": "OnlineTrust Alliance",
+          "id": 92063333,
+          "id_str": "92063333",
+          "indices":  [
+            33,
+            44
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Mon Jun 03 14:04:46 +0000 2013",
+    "id": 341556066724749300,
+    "id_str": "341556066724749312",
+    "text": "RT @vineapp: Android owners: Welcome to Vine. We're excited to get the app into your hands. https://t.co/9tH7xxEqh6.",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Mon Jun 03 13:28:44 +0000 2013",
+      "id": 341546999331573760,
+      "id_str": "341546999331573760",
+      "text": "Android owners: Welcome to Vine. We're excited to get the app into your hands. https://t.co/9tH7xxEqh6.",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 586671909,
+        "id_str": "586671909",
+        "name": "Vine",
+        "screen_name": "vineapp",
+        "location": "",
+        "description": "Vine is a new app for sharing short, looping videos. It's free for iPhone or Android.",
+        "url": "http://t.co/HLAhG6mqQx",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/HLAhG6mqQx",
+                "expanded_url": "http://vine.co",
+                "display_url": "vine.co",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 2501815,
+        "friends_count": 10,
+        "listed_count": 1638,
+        "created_at": "Mon May 21 14:34:36 +0000 2012",
+        "favourites_count": 64,
+        "utc_offset": -14400,
+        "time_zone": "Atlantic Time (Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 125,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F1F1EC",
+        "profile_background_image_url": "http://a0.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/3578238864/50d7e05aa6fe5d477e48a63047e38ce7_normal.png",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/3578238864/50d7e05aa6fe5d477e48a63047e38ce7_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/586671909/1358910416",
+        "profile_link_color": "00B386",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": false,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1806,
+      "favorite_count": 513,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/9tH7xxEqh6",
+            "expanded_url": "https://vine.co/blog/vine-for-android",
+            "display_url": "vine.co/blog/vine-for-…",
+            "indices":  [
+              79,
+              102
+            ]
+          }
+        ],
+        "user_mentions":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1806,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "https://t.co/9tH7xxEqh6",
+          "expanded_url": "https://vine.co/blog/vine-for-android",
+          "display_url": "vine.co/blog/vine-for-…",
+          "indices":  [
+            92,
+            115
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "vineapp",
+          "name": "Vine",
+          "id": 586671909,
+          "id_str": "586671909",
+          "indices":  [
+            3,
+            11
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri May 31 23:58:44 +0000 2013",
+    "id": 340618380199460860,
+    "id_str": "340618380199460867",
+    "text": "RT @TwitterMusic: Twitter #music has a new homepage. Now it's easier for you to choose what you want to listen to. Check it out at http://t…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Fri May 31 23:35:46 +0000 2013",
+      "id": 340612599408361500,
+      "id_str": "340612599408361472",
+      "text": "Twitter #music has a new homepage. Now it's easier for you to choose what you want to listen to. Check it out at http://t.co/zuD4r5tqB0.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 373471064,
+        "id_str": "373471064",
+        "name": "Twitter Music",
+        "screen_name": "TwitterMusic",
+        "location": "Twitter HQ",
+        "description": "Music related Tweets from around the world.",
+        "url": "http://t.co/7eUtBKV1bf",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/7eUtBKV1bf",
+                "expanded_url": "http://music.twitter.com",
+                "display_url": "music.twitter.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 2941872,
+        "friends_count": 64,
+        "listed_count": 5481,
+        "created_at": "Wed Sep 14 16:50:47 +0000 2011",
+        "favourites_count": 332,
+        "utc_offset": -36000,
+        "time_zone": "Hawaii",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 2719,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://a0.twimg.com/profile_images/3782510816/ae4c20cca7d4cc918bba74458def2066_normal.png",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/3782510816/ae4c20cca7d4cc918bba74458def2066_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/373471064/1347670819",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": false,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 622,
+      "favorite_count": 385,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "music",
+            "indices":  [
+              8,
+              14
+            ]
+          }
+        ],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "http://t.co/zuD4r5tqB0",
+            "expanded_url": "http://music.twitter.com",
+            "display_url": "music.twitter.com",
+            "indices":  [
+              113,
+              135
+            ]
+          }
+        ],
+        "user_mentions":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 622,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [
+         {
+          "text": "music",
+          "indices":  [
+            26,
+            32
+          ]
+        }
+      ],
+      "symbols":  [],
+      "urls":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "TwitterMusic",
+          "name": "Twitter Music",
+          "id": 373471064,
+          "id_str": "373471064",
+          "indices":  [
+            3,
+            16
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri May 31 17:07:24 +0000 2013",
+    "id": 340514864097288200,
+    "id_str": "340514864097288193",
+    "text": "Now it's easier (and more fun) than ever to upload and update Twitter profile, header, and background photos: http://t.co/WJN5Azfray",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 702,
+    "favorite_count": 466,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/WJN5Azfray",
+          "expanded_url": "http://www.youtube.com/watch?v=ZkP8riJvau8",
+          "display_url": "youtube.com/watch?v=ZkP8ri…",
+          "indices":  [
+            110,
+            132
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri May 31 15:44:11 +0000 2013",
+    "id": 340493921689952260,
+    "id_str": "340493921689952256",
+    "text": "The geography of Tweets: https://t.co/tl3lnsE7H1 How billions of geotagged Tweets illustrate the world.",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 783214,
+      "id_str": "783214",
+      "name": "Twitter",
+      "screen_name": "twitter",
+      "location": "San Francisco, CA",
+      "description": "Your official source for news, updates and tips from Twitter, Inc.",
+      "url": "http://t.co/5iRhy7wTgu",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/5iRhy7wTgu",
+              "expanded_url": "http://blog.twitter.com/",
+              "display_url": "blog.twitter.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 20830421,
+      "friends_count": 124,
+      "listed_count": 78566,
+      "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+      "favourites_count": 22,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1610,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1347405327",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 706,
+    "favorite_count": 349,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "https://t.co/tl3lnsE7H1",
+          "expanded_url": "https://blog.twitter.com/2013/geography-tweets-3",
+          "display_url": "blog.twitter.com/2013/geography…",
+          "indices":  [
+            25,
+            48
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

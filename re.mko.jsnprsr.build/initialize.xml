@@ -1,0 +1,106 @@
+<project default="initialize">
+	<property name="caliper.jar.url" value="https://caliper.googlecode.com/files/caliper-1.0-beta-1-all.jar"/>
+	<property name="junit.jar.url" value="http://search.maven.org/remotecontent?filepath=junit/junit/4.11/junit-4.11.jar"/>
+	<property name="hamcrest.jar.url" value="http://search.maven.org/remotecontent?filepath=org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar"/>
+	
+	<property name="sourceforge.mirror" value="switch"/>
+	
+	<property name="findbugs.version" value="2.0.2"/>
+	<property name="findbugs.zip.url" value="http://downloads.sourceforge.net/project/findbugs/findbugs/${findbugs.version}/findbugs-${findbugs.version}.zip?r=&amp;use_mirror=${sourceforge.mirror}"/>
+	
+	<property name="pmd.version" value="5.0.4"/>
+	<property name="pmd.zip.url" value="http://downloads.sourceforge.net/project/pmd/pmd/${pmd.version}/pmd-bin-${pmd.version}.zip?r=&amp;use_mirror=${sourceforge.mirror}"/>
+	
+	<property name="javancss.version" value="32.53"/>
+	<property name="javancss.zip.url" value="http://www.kclee.de/clemens/java/javancss/javancss-${javancss.version}.zip"/>
+
+	<property name="cobertura.version" value="2.0"/>
+	<property name="cobertura.zip.url" value="http://downloads.sourceforge.net/project/cobertura/cobertura/${cobertura.version}/cobertura-${cobertura.version}-bin.zip?r=&amp;use_mirror=${sourceforge.mirror}"/>
+	
+	<property name="minimal-json.zip.url" value="https://github.com/ralfstx/minimal-json/archive/master.zip"/>
+	<property name="org.json.zip.url" value="https://github.com/douglascrockford/JSON-java/archive/master.zip"/>
+	<property name="sf-city-lots-json.zip.url" value="https://github.com/zeMirco/sf-city-lots-json/archive/master.zip"/>
+	
+	<property name="top" value="${basedir}/.."/>
+	<property name="test.speed.dir" value="${top}/re.mko.jsnprsr.test.speed"/>
+	<property name="test.unit.dir" value="${top}/re.mko.jsnprsr.test.unit"/>
+	<property name="build.tools.dir" value="${basedir}/tools"/>
+	
+	<target name="initialize" depends="initialize-sf-city-lots-json">
+		<mkdir dir="${build.tools.dir}"/>
+		<mkdir dir="${test.speed.dir}/lib"/>
+
+		<get src="${org.json.zip.url}" dest="${test.speed.dir}/lib/org.json.zip"/>
+		<unzip src="${test.speed.dir}/lib/org.json.zip" dest="${test.speed.dir}/lib"/>
+		<mkdir dir="${test.speed.dir}/lib/src/org"/>
+		<move file="${test.speed.dir}/lib/JSON-java-master/" tofile="${test.speed.dir}/lib/src/org/json"/>
+		<delete file="${test.speed.dir}/lib/org.json.zip"/> 
+		<delete dir="${test.speed.dir}/lib/JSON-java-master"/> 
+
+		<get src="${minimal-json.zip.url}" dest="${test.speed.dir}/lib/minimal-json.zip"/>
+		<unzip src="${test.speed.dir}/lib/minimal-json.zip" dest="${test.speed.dir}/lib">
+			<patternset>
+				<include name="**/bundles/**/src/**"/>
+			</patternset>
+		</unzip>
+		<move file="${test.speed.dir}/lib/minimal-json-master/bundles/com.eclipsesource.json" tofile="${test.speed.dir}/lib"/>
+		<delete file="${test.speed.dir}/lib/minimal-json.zip"/> 
+		<delete dir="${test.speed.dir}/lib/minimal-json-master"/> 
+
+		<get src="${cobertura.zip.url}" dest="${build.tools.dir}/cobertura.zip"/>
+		<unzip src="${build.tools.dir}/cobertura.zip" dest="${build.tools.dir}">
+			<patternset>
+				<include name="**/*.jar"/>
+				<exclude name="**/ant*.jar"/>
+			</patternset>
+		</unzip>
+		<move file="${build.tools.dir}/cobertura-${cobertura.version}" tofile="${build.tools.dir}/cobertura"/>
+		<delete file="${build.tools.dir}/cobertura.zip"/>
+
+		<get src="${pmd.zip.url}" dest="${build.tools.dir}/pmd.zip"/>
+		<unzip src="${build.tools.dir}/pmd.zip" dest="${build.tools.dir}">
+			<patternset>
+				<include name="**/lib/*"/>
+			</patternset>
+		</unzip>
+		<move file="${build.tools.dir}/pmd-bin-${pmd.version}" tofile="${build.tools.dir}/pmd"/>
+		<delete file="${build.tools.dir}/pmd.zip"/>
+		
+		<get src="${findbugs.zip.url}" dest="${build.tools.dir}/findbugs.zip"/>
+		<unzip src="${build.tools.dir}/findbugs.zip" dest="${build.tools.dir}">
+			<patternset>
+				<include name="**/lib/*"/>
+			</patternset>
+		</unzip>
+		<move file="${build.tools.dir}/findbugs-${findbugs.version}" tofile="${build.tools.dir}/findbugs"/>
+		<delete file="${build.tools.dir}/findbugs.zip"/>
+		
+		<get src="${caliper.jar.url}" dest="${test.speed.dir}/lib/caliper.jar"/>
+
+		
+		<mkdir dir="${test.unit.dir}/lib"/>
+		<get src="${junit.jar.url}" dest="${test.unit.dir}/lib/junit.jar"/>
+		<get src="${hamcrest.jar.url}" dest="${test.unit.dir}/lib/hamcrest-core.jar"/>
+		
+		<get src="${javancss.zip.url}" dest="${build.tools.dir}/javancss.zip"/>
+		<unzip src="${build.tools.dir}/javancss.zip" dest="${build.tools.dir}">
+			<patternset>
+				<include name="**/lib/*"/>
+			</patternset>
+		</unzip>
+		<move file="${build.tools.dir}/javancss-${javancss.version}" tofile="${build.tools.dir}/javancss"/>
+		<delete file="${build.tools.dir}/javancss.zip"/>
+	</target>
+	
+	<target name="initialize-sf-city-lots-json">
+		<get src="${sf-city-lots-json.zip.url}" dest="${test.speed.dir}/data/sf-city-lots-json.zip"/>
+		<unzip src="${test.speed.dir}/data/sf-city-lots-json.zip" dest="${test.speed.dir}/data">
+			<patternset>
+				<include name="**/*.json"/>
+			</patternset>
+		</unzip>
+		<move file="${test.speed.dir}/data/sf-city-lots-json-master/citylots.json" tofile="${test.speed.dir}/data/citylots.json"/>
+		<delete file="${test.speed.dir}/data/sf-city-lots-json.zip"/> 
+		<delete dir="${test.speed.dir}/data/sf-city-lots-json-master"/> 
+	</target>
+</project>

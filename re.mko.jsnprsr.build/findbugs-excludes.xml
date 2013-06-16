@@ -1,0 +1,12 @@
+<FindBugsFilter>
+  <Match>
+    <Or>
+    <Bug pattern="SF_SWITCH_NO_DEFAULT"/>
+    <Bug pattern="NM_SAME_SIMPLE_NAME_AS_INTERFACE"/>
+    <Bug pattern="SIC_INNER_SHOULD_BE_STATIC_ANON"/>
+    <Bug pattern="DB_DUPLICATE_SWITCH_CLAUSES"/>
+    <Bug pattern="EQ_DOESNT_OVERRIDE_EQUALS"/>
+    </Or>
+  </Match>
+</FindBugsFilter>
+
