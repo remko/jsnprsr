@@ -40,10 +40,10 @@
 		<get src="${minimal-json.zip.url}" dest="${test.speed.dir}/lib/minimal-json.zip"/>
 		<unzip src="${test.speed.dir}/lib/minimal-json.zip" dest="${test.speed.dir}/lib">
 			<patternset>
-				<include name="**/bundles/**/src/**"/>
+				<include name="**/com.eclipsesource.json/src/**"/>
 			</patternset>
 		</unzip>
-		<move file="${test.speed.dir}/lib/minimal-json-master/bundles/com.eclipsesource.json" tofile="${test.speed.dir}/lib"/>
+		<move file="${test.speed.dir}/lib/minimal-json-master/com.eclipsesource.json" tofile="${test.speed.dir}/lib"/>
 		<delete file="${test.speed.dir}/lib/minimal-json.zip"/> 
 		<delete dir="${test.speed.dir}/lib/minimal-json-master"/> 
 
@@ -93,14 +93,15 @@
 	</target>
 	
 	<target name="initialize-sf-city-lots-json">
-		<get src="${sf-city-lots-json.zip.url}" dest="${test.speed.dir}/data/sf-city-lots-json.zip"/>
-		<unzip src="${test.speed.dir}/data/sf-city-lots-json.zip" dest="${test.speed.dir}/data">
-			<patternset>
-				<include name="**/*.json"/>
-			</patternset>
-		</unzip>
-		<move file="${test.speed.dir}/data/sf-city-lots-json-master/citylots.json" tofile="${test.speed.dir}/data/citylots.json"/>
-		<delete file="${test.speed.dir}/data/sf-city-lots-json.zip"/> 
-		<delete dir="${test.speed.dir}/data/sf-city-lots-json-master"/> 
+		<!-- <get src="${sf&#45;city&#45;lots&#45;json.zip.url}" dest="${test.speed.dir}/data/sf&#45;city&#45;lots&#45;json.zip"/> -->
+		<!-- <unzip src="${test.speed.dir}/data/sf&#45;city&#45;lots&#45;json.zip" dest="${test.speed.dir}/data"> -->
+		<!-- 	<patternset> -->
+		<!-- 		<include name="**/*.json"/> -->
+		<!-- 	</patternset> -->
+		<!-- </unzip> -->
+		<!-- <move file="${test.speed.dir}/data/sf&#45;city&#45;lots&#45;json&#45;master/citylots.json" tofile="${test.speed.dir}/data/citylots.json"/> -->
+		<!-- <delete file="${test.speed.dir}/data/sf&#45;city&#45;lots&#45;json.zip"/>  -->
+		<!-- <delete dir="${test.speed.dir}/data/sf&#45;city&#45;lots&#45;json&#45;master"/>  -->
 	</target>
 </project>
+
