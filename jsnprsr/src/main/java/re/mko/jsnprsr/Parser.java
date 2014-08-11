@@ -214,6 +214,7 @@ public final class Parser {
 								return readExponent(integral + (fractional / (double) dividor));
 							case ' ':
 							case '\n':
+							case '\r':
 							case '\t':
 								munchWhitespace();
 								// $FALL-THROUGH$
@@ -228,6 +229,7 @@ public final class Parser {
 					return readExponent((double) integral);	
 				case ' ':
 				case '\n':
+				case '\r':
 				case '\t':
 					munchWhitespace();
 					// $FALL-THROUGH$
@@ -264,6 +266,7 @@ public final class Parser {
 					break;
 				case ' ':
 				case '\n':
+				case '\r':
 				case '\t':
 					munchWhitespace();
 					// $FALL-THROUGH$
@@ -336,6 +339,7 @@ public final class Parser {
 			int c = reader.read();
 			switch (c) {
 				case '\n': //lineNumber++;
+				case '\r':
 				case ' ':
 				case '\t':
 					continue;
