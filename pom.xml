@@ -1,0 +1,51 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>re.mko.jsnprsr</groupId>
+	<artifactId>root</artifactId>
+	<version>0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>${project.groupId}:${project.artifactId}</name>
+	<description>A Lean JSON Parser</description>
+	<url>http://el-tramo.be/jsnprsr</url>
+	<scm>
+		<url>https://github.com/remko/jsnprsr</url>
+		<connection>scm:git:git://github.com/remko/jsnprsr.git</connection>
+		<developerConnection>scm:git:git@github.com:remko/jsnprsr.git</developerConnection>
+	</scm>
+	<developers>
+		<developer>
+			<name>Remko Tronçon</name>
+			<url>https://el-tramo.be</url>
+		</developer>
+	</developers>
+	<licenses>
+		<license>
+			<name>MIT License</name>
+			<url>http://www.opensource.org/licenses/mit-license.php</url>
+		</license>
+	</licenses>
+	<modules>
+		<module>jsnprsr</module>
+		<module>jsnprsr-speedtests</module>
+	</modules>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.source.plugin.version>2.3</maven.source.plugin.version>
+		<maven.plugins.version>2.4</maven.plugins.version>
+	</properties>
+	<build>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<version>${maven.plugins.version}</version>
+					<configuration>
+						<source>1.6</source>
+						<target>1.6</target>
+					</configuration>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+</project>

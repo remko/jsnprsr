@@ -1,9 +1,2 @@
+/target
 /.metadata
-bin/
-/re.mko.jsnprsr.test.unit/lib/
-/re.mko.jsnprsr.test.speed/lib/
-/re.mko.jsnprsr.test.speed/data/citylots.json
-/re.mko.jsnprsr.build/tools/
-/re.mko.jsnprsr.build/build/
-*.hprof
-*.log
