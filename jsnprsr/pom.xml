@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>re.mko.jsnprsr</groupId>
 		<artifactId>root</artifactId>
-		<version>0.1-SNAPSHOT</version>
+		<version>0.1</version>
 	</parent>
 	<artifactId>jsnprsr</artifactId>
 	<name>${project.groupId}:${project.artifactId}</name>

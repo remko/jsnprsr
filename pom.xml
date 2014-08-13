@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>re.mko.jsnprsr</groupId>
 	<artifactId>root</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<packaging>pom</packaging>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>A Lean JSON Parser</description>
@@ -11,7 +11,8 @@
 		<url>https://github.com/remko/jsnprsr</url>
 		<connection>scm:git:git://github.com/remko/jsnprsr.git</connection>
 		<developerConnection>scm:git:git@github.com:remko/jsnprsr.git</developerConnection>
-	</scm>
+	  <tag>v0.1</tag>
+  </scm>
 	<developers>
 		<developer>
 			<name>Remko Tronçon</name>
