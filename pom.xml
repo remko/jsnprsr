@@ -11,8 +11,8 @@
 		<url>https://github.com/remko/jsnprsr</url>
 		<connection>scm:git:git://github.com/remko/jsnprsr.git</connection>
 		<developerConnection>scm:git:git@github.com:remko/jsnprsr.git</developerConnection>
-	  <tag>HEAD</tag>
-  </scm>
+		<tag>HEAD</tag>
+	</scm>
 	<developers>
 		<developer>
 			<name>Remko Tronçon</name>
