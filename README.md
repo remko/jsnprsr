@@ -1,4 +1,4 @@
-# [JsnPrsr: A Lean JSON Parser](http://el-tramo.be/jsnprsr)
+# [JsnPrsr: A Lean JSON Parser](https://el-tramo.be/jsnprsr)
 
 ## About
 
